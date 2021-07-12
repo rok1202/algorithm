@@ -8,4 +8,3 @@ def solution(s):
         k = int(length/2)
         answer = s[k]
     return answer
-solution("abcde")
